@@ -9,7 +9,7 @@
 
 ## Introduction
 
-This project is a playable piano keyboard developed using **Bolt.DIY + DeepSeekV3**. It supports both mouse clicks and keyboard input, with a MacBook-style touchbar for visual feedback.
+This project is a playable piano keyboard developed using b[**olt.**](https://github.com/stackblitz-labs/bolt.diy)diy + d[**eepseek V3**](https://www.deepseek.com/). It supports both mouse clicks and keyboard input, with a MacBook-style touchbar for visual feedback.
 
 ## Features
 

@@ -9,7 +9,7 @@
 
 ## 介绍
 
-本项目是一个使用 **Bolt.DIY + DeepSeekV3** 开发的可弹奏电子钢琴键盘。支持鼠标点击和键盘输入，并带有类似 MacBook 的 Touchbar 视觉反馈。
+本项目是一个使用 b[**olt.**](https://github.com/stackblitz-labs/bolt.diy)diy + d[**eepseek V3**](https://www.deepseek.com/) 开发的可弹奏电子钢琴键盘。支持鼠标点击和键盘输入，并带有类似 MacBook 的 Touchbar 视觉反馈。
 
 ## 功能
 
